@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Q10_BalancedParentheses/1.0.0": {
+        "runtime": {
+          "Q10_BalancedParentheses.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Q10_BalancedParentheses/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

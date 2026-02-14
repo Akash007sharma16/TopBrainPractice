@@ -1,0 +1,14 @@
+D:\Capgemini-Training-Practice\Coding-Questions\Q10_BalancedParentheses\bin\Debug\net10.0\Q10_BalancedParentheses.exe
+D:\Capgemini-Training-Practice\Coding-Questions\Q10_BalancedParentheses\bin\Debug\net10.0\Q10_BalancedParentheses.deps.json
+D:\Capgemini-Training-Practice\Coding-Questions\Q10_BalancedParentheses\bin\Debug\net10.0\Q10_BalancedParentheses.runtimeconfig.json
+D:\Capgemini-Training-Practice\Coding-Questions\Q10_BalancedParentheses\bin\Debug\net10.0\Q10_BalancedParentheses.dll
+D:\Capgemini-Training-Practice\Coding-Questions\Q10_BalancedParentheses\bin\Debug\net10.0\Q10_BalancedParentheses.pdb
+D:\Capgemini-Training-Practice\Coding-Questions\Q10_BalancedParentheses\obj\Debug\net10.0\Q10_BalancedParentheses.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini-Training-Practice\Coding-Questions\Q10_BalancedParentheses\obj\Debug\net10.0\Q10_BalancedParentheses.AssemblyInfoInputs.cache
+D:\Capgemini-Training-Practice\Coding-Questions\Q10_BalancedParentheses\obj\Debug\net10.0\Q10_BalancedParentheses.AssemblyInfo.cs
+D:\Capgemini-Training-Practice\Coding-Questions\Q10_BalancedParentheses\obj\Debug\net10.0\Q10_BalancedParentheses.csproj.CoreCompileInputs.cache
+D:\Capgemini-Training-Practice\Coding-Questions\Q10_BalancedParentheses\obj\Debug\net10.0\Q10_BalancedParentheses.dll
+D:\Capgemini-Training-Practice\Coding-Questions\Q10_BalancedParentheses\obj\Debug\net10.0\refint\Q10_BalancedParentheses.dll
+D:\Capgemini-Training-Practice\Coding-Questions\Q10_BalancedParentheses\obj\Debug\net10.0\Q10_BalancedParentheses.pdb
+D:\Capgemini-Training-Practice\Coding-Questions\Q10_BalancedParentheses\obj\Debug\net10.0\Q10_BalancedParentheses.genruntimeconfig.cache
+D:\Capgemini-Training-Practice\Coding-Questions\Q10_BalancedParentheses\obj\Debug\net10.0\ref\Q10_BalancedParentheses.dll
