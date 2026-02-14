@@ -1,0 +1,14 @@
+D:\TopBrain\Question4\bin\Debug\net10.0\Question4.exe
+D:\TopBrain\Question4\bin\Debug\net10.0\Question4.deps.json
+D:\TopBrain\Question4\bin\Debug\net10.0\Question4.runtimeconfig.json
+D:\TopBrain\Question4\bin\Debug\net10.0\Question4.dll
+D:\TopBrain\Question4\bin\Debug\net10.0\Question4.pdb
+D:\TopBrain\Question4\obj\Debug\net10.0\Question4.GeneratedMSBuildEditorConfig.editorconfig
+D:\TopBrain\Question4\obj\Debug\net10.0\Question4.AssemblyInfoInputs.cache
+D:\TopBrain\Question4\obj\Debug\net10.0\Question4.AssemblyInfo.cs
+D:\TopBrain\Question4\obj\Debug\net10.0\Question4.csproj.CoreCompileInputs.cache
+D:\TopBrain\Question4\obj\Debug\net10.0\Question4.dll
+D:\TopBrain\Question4\obj\Debug\net10.0\refint\Question4.dll
+D:\TopBrain\Question4\obj\Debug\net10.0\Question4.pdb
+D:\TopBrain\Question4\obj\Debug\net10.0\Question4.genruntimeconfig.cache
+D:\TopBrain\Question4\obj\Debug\net10.0\ref\Question4.dll
