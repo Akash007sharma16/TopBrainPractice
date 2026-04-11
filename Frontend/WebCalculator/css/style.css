@@ -1,0 +1,23 @@
+﻿body {
+    background: #f5f6fa;
+    font-family: Arial, sans-serif;
+}
+
+.card {
+    border-radius: 15px;
+}
+
+.result-box {
+    background: #e9ecef;
+    padding: 15px;
+    border-radius: 10px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+/* Button hover effects */
+button:hover {
+    transform: scale(1.02);
+    transition: 0.2s;
+}
