@@ -1,0 +1,51 @@
+<div class="form-card">
+  <h3 class="form-title">{{ editingCourse ? 'EDIT COURSE' : 'ADD NEW COURSE' }}</h3>
+
+  <form (ngSubmit)="onSubmit()" #courseForm="ngForm">
+    <div class="form-group">
+      <label for="title">TITLE</label>
+      <input
+        id="title"
+        type="text"
+        placeholder="Title"
+        [(ngModel)]="title"
+        name="title"
+        required
+      />
+    </div>
+
+    <div class="form-group">
+      <label for="instructor">INSTRUCTOR</label>
+      <input
+        id="instructor"
+        type="text"
+        placeholder="Mohd Salman"
+        [(ngModel)]="instructor"
+        name="instructor"
+        required
+      />
+    </div>
+
+    <div class="form-group">
+      <label for="duration">DURATION (in hours)</label>
+      <input
+        id="duration"
+        type="number"
+        placeholder="e.g. 40"
+        [(ngModel)]="duration"
+        name="duration"
+        min="1"
+        required
+      />
+    </div>
+
+    <div class="form-actions">
+      @if (editingCourse) {
+        <button type="button" class="btn-cancel" (click)="onCancel()">CANCEL</button>
+      }
+      <button type="submit" class="btn-submit">
+        {{ editingCourse ? 'UPDATE COURSE' : 'CREATE COURSE' }}
+      </button>
+    </div>
+  </form>
+</div>

@@ -1,0 +1,42 @@
+<div class="dashboard">
+  <!-- Header -->
+  <header class="header">
+    <div class="header-left">
+      <div class="avatar">👤</div>
+      <div>
+        <div class="trainer-name">TRAINER: MOHD SALMAN</div>
+        <div class="subtitle">COURSE MANAGEMENT EXERCISE</div>
+      </div>
+    </div>
+    <h1 class="dashboard-title">PROFESSIONAL COURSE DASHBOARD</h1>
+  </header>
+
+  <!-- Error Banner -->
+  @if (errorMessage) {
+    <div class="error-banner">{{ errorMessage }}</div>
+  }
+
+  <!-- Main Content -->
+  <main class="content">
+    <!-- Course Catalog -->
+    <section class="catalog-section">
+      <h2 class="section-title">COURSE CATALOG</h2>
+      <app-course-list
+        [courses]="courses"
+        (deleteCourse)="onDeleteCourse($event)"
+        (editCourse)="onEditCourse($event)"
+      />
+    </section>
+
+    <!-- Add / Edit Form -->
+    <aside class="form-section">
+      <app-course-form
+        [editingCourse]="editingCourse"
+        (submitCourse)="onSubmitCourse($event)"
+        (cancelEdit)="onCancelEdit()"
+      />
+    </aside>
+  </main>
+</div>
+
+<router-outlet />
